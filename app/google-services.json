@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634189948134",
+    "project_id": "pan-de-oro-9ad33",
+    "storage_bucket": "pan-de-oro-9ad33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634189948134:android:43114b99d63f1cf25cc727",
+        "android_client_info": {
+          "package_name": "com.example.panaderia_pan_de_oro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634189948134-qktlc9kpu4t07bj6cl0av1tsr91nlln1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_6mOjjKoXItfgDDh328GM-CPcuYJAcio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634189948134-qktlc9kpu4t07bj6cl0av1tsr91nlln1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
